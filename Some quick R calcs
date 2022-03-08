@@ -1,0 +1,5 @@
+play <- function(ps5, screen, friends)
+{
+rubbish <- print("I enjoy" paste0(ps5) "using a big" paste0(screen) "with my" paste0(friends))
+return(rubbish)
+}
